@@ -1,0 +1,18 @@
+ipykernel
+python-dotenv
+langchain-community
+pypdf
+bs4
+arxiv
+pymupdf
+wikipedia
+langchain-text-splitters 
+tensorflow 
+pandas
+Scikit-Learn
+tensorboard
+matplotlib
+streamlit
+keras
+langchain-groq
+ langchain_openai
